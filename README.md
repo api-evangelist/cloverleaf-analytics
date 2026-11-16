@@ -64,13 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cloverleaf Analytics provides autonomous insurance analytics platforms that monitor certified metrics, surface critical insights, and investigate drivers with supporting evidence. Their solutions help property & casualty insurers reduce surprises, protect performance, and achieve profitable growth through real-time dashboards and AI-driven analysis.
+Cloverleaf Analytics delivers an autonomous insurance analytics platform that continuously monitors certified metrics, surfaces critical insights, and investigates drivers with supporting evidence. Their AI‑native solution helps property & casualty insurers reduce surprises, protect performance, and achieve profitable growth via real‑time dashboards, conversational reporting, and predictive analytics.
 
-**Areas:** Company
+**Areas:** Company · Insurance · Analytics · AI · Platform
 
 ## Cloverleaf Analytics on APIs.io
 
 Everything profiled for Cloverleaf Analytics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloverleaf-analytics/](https://apis.io/providers/cloverleaf-analytics/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Cloverleaf Platform API](https://apis.io/apis/cloverleaf-analytics/cloverleaf-platform-api/) — Cloverleaf Analytics platform provides autonomous analytics for insurance, offering monitoring, investigation, and reporting via a conversational interface.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cloverleaf Analytics Domain Security](https://apis.io/security/cloverleaf-analytics/cloverleaf-analytics-domain-security/)
 
 ## Where to find this API
 
@@ -78,12 +92,53 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://www.cloverleafanalytics.com/)
 - [Documentation](https://www.cloverleafanalytics.com/platform)
+- [Support](https://www.cloverleafanalytics.com/contact)
 - [Terms of service](https://www.cloverleafanalytics.com/terms-of-service)
 - [Privacy policy](https://www.cloverleafanalytics.com/privacy-policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/cloverleaf-analytics/](https://apis.io/providers/cloverleaf-analytics/).
+**Kin Score 10.7** — minimal · rubric 0.28.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 17.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 6.6** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cloverleaf-analytics/](https://apis.io/providers/cloverleaf-analytics/).
 
 ## How this profile is made
 
